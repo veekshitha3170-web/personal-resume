@@ -32,7 +32,8 @@ I am a motivated student interested in exploring the intersection of business, t
 - Google Fonts
 
 ## Live Website
-[Visit My Resume Website](https://veekshitha3170-web.github.io/personal-resume/**)
+[Visit My Resume Website](https://veekshitha3170-web.github.io/personal-resume/)
+
 
 ## 📬 Contact
 - **Email:** veekshitha3170@gmail.com
